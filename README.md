@@ -28,39 +28,38 @@
 ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 
-### ⚙️ GitHub Analytics
+<h2 align="left">Minhas Estatísticas</h2>
 
-<table>
-  <tr>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=eduuardo1st&theme=dark&hide_border=false&include_all_commits=true"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduuardo1st&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=eduuardo1st&theme=dark&hide_border=false"
-        alt="Github Stats"
-      />
-    </td>
-  </tr>
-</table>
+###
 
---- 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eduuardo1st&theme=merko&hide_border=false&include_all_commits=true&count_private=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eduuardo1st&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+</p>
 
-## Onde me encontrar
+###
 
-[![Linkedin](https://img.shields.io/badge/-eduuardo1st-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/eduardo-gon%C3%A7alves-de-mesquita-3ab8bb325/)
-[![Gmail Badge](https://img.shields.io/badge/-eduardouc388@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:eduardouc388@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/eduuardo1st?label=follow&style=social)](https://github.com/eduuardo1st)
+<h2 align="left">Conecte-se comigo</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.instagram.com/eduuardo1st" target="_blank">
+    <img src="https://raw.githubusercontent.com/eduuardo1st/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/eduardo-gon%C3%A7alves-de-mesquita-3ab8bb325" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="eduardouc388@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/eduuardo1st/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://discord.com/channels/@me/897296310867230770" target="_blank">
+    <img src="https://raw.githubusercontent.com/eduuardo1st/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/eduuardo1st/eduuardo1st/output/snake.svg" alt="Snake animation" />
+
+###
