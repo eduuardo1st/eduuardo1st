@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=1000&color=80A8FF&center=false&vCenter=false&width=1000&height=70&lines=Eai!+Bem-vindo+ao+meu+GitHub!" alt="Typing SVG" />
+
+</p>
+
+
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
