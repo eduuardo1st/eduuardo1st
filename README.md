@@ -5,19 +5,21 @@
 
 ## 👾 Sobre mim
 
-✨ Sempre explorando coisas novas no mundo dev  
-🎓 Engenharia de Software - **UCB**  
-🌱 Aprendendo mais sobre **Java**   
+> Sempre explorando coisas novas no mundo dev
+  
+> Engenharia de Software - **UCB**
+ 
+> Aprendendo mais sobre **Java**   
 
-## 🚀 Minhas Skills
+## Skills
 
-### 💻 Linguagens & Tecnologias
+### Linguagens & Tecnologias
 
 <div>
   <img src="https://skillicons.dev/icons?i=c,cs,python,java,js,html,css,mysql&theme=dark" />
 </div>
 
-### ⚡ Ferramentas & IDEs
+### Ferramentas & IDEs
 
 <div>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,idea,unity,trello&theme=dark" />
@@ -31,7 +33,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eduuardo1st&layout=compact&langs_count=6&theme=radical&title_color=8A2BE2&hide_border=true" height="150" />
 </p>
 
-## 🌐 Conecte-se comigo
+## Conecte-se comigo
 
 <p align="center">
   <a href="https://www.instagram.com/eduuardo1st" target="_blank">
@@ -48,7 +50,7 @@
   </a>
 </p>
 
-## 🐍 Minhas contribuições
+## Minhas contribuições
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/eduuardo1st/eduuardo1st/output/github-contribution-grid-snake-dark.svg" alt="snake gif" />
