@@ -3,43 +3,33 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=2000&color=8A2BE2&center=true&vCenter=true&width=1000&height=70&lines=Eai!+Bem-vindo+ao+meu+GitHub!;Dev+em+constante+evolução+💻;Bora+codar+🚀" alt="Typing SVG" />
 </p>
 
----
-
 ## 👾 Sobre mim
 
 ✨ Sempre explorando coisas novas no mundo dev  
 🎓 Engenharia de Software - **UCB**  
 🌱 Aprendendo mais sobre **Java**   
 
----
-
 ## 🚀 Minhas Skills
 
 ### 💻 Linguagens & Tecnologias
 
-<div align="center">
+<div>
   <img src="https://skillicons.dev/icons?i=c,cs,python,java,js,html,css,mysql&theme=dark" />
 </div>
 
----
-
 ### ⚡ Ferramentas & IDEs
 
-<div align="center">
+<div>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,idea,unity,trello&theme=dark" />
 </div>
 
----
-
 ## 📊 Minhas Estatísticas
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=eduuardo1st&show_icons=true&theme=radical&title_color=8A2BE2&icon_color=8A2BE2&hide_border=true" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=eduuardo1st&theme=radical&hide_border=true&ring=8A2BE2&currStreakLabel=8A2BE2" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eduuardo1st&layout=compact&langs_count=6&theme=radical&title_color=8A2BE2&hide_border=true" height="150" />
 </p>
-
----
 
 ## 🌐 Conecte-se comigo
 
@@ -57,8 +47,6 @@
     <img src="https://skillicons.dev/icons?i=discord&theme=dark" width="48"/>
   </a>
 </p>
-
----
 
 ## 🐍 Minhas contribuições
 
