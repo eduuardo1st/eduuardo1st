@@ -53,8 +53,6 @@
   </a>
 </p>
 
-## My Contributions  
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/eduuardo1st/eduuardo1st/output/github-contribution-grid-snake-dark.svg" alt="snake gif" />
 </p>
