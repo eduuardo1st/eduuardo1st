@@ -1,44 +1,50 @@
 <!-- Banner animado -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=2000&color=8A2BE2&center=true&vCenter=true&width=1000&height=70&lines=Eai!+Bem-vindo+ao+meu+GitHub!;Dev+em+constante+evolução+💻;Bora+codar+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=2000&color=8A2BE2&center=true&vCenter=true&width=1000&height=70&lines=Welcome+to+my+GitHub!+👋;Constantly+evolving+developer+💻;Let's+code!+🚀" alt="Typing SVG" />
 </p>
-
-## 👾 About me   
-
-> 🇧🇷 Sempre explorando coisas novas no mundo dev  
-> 🇺🇸 Always exploring new things in the dev world  
-  
-> 🇧🇷 Engenharia de Software - **UCB**  
-> 🇺🇸 Software Engineering - **UCB** 
- 
-> 🇧🇷 Aprendendo mais sobre **Java**  
-> 🇺🇸 Learning more about **Java**   
-
-## Skills  
-
-### Languages & Technologies  
-
-<div>
-  <img src="https://skillicons.dev/icons?i=c,cs,python,java,js,html,css,mysql&theme=dark" />
-</div>
-
-### Tools & IDEs    
-
-<div>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,idea,unity,trello&theme=dark" />
-</div>
-
-## My Stats  
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=eduuardo1st&show_icons=true&theme=radical&title_color=8A2BE2&icon_color=8A2BE2&hide_border=true" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=eduuardo1st&theme=radical&hide_border=true&ring=8A2BE2&currStreakLabel=8A2BE2" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eduuardo1st&layout=compact&langs_count=6&theme=radical&title_color=8A2BE2&hide_border=true" height="150" />
 </p>
 
-## My Socials    
 
-<p align="center">
+<div align="center">
+  
+## 👾 About me
+  
+<p>
+  🇧🇷 Sempre explorando coisas novas no mundo dev<br>
+  🇺🇸 Always exploring new things in the dev world
+</p>
+  
+<p>
+  🇧🇷 Engenharia de Software - <strong>UCB</strong><br>
+  🇺🇸 Software Engineering - <strong>UCB</strong>
+</p>
+ 
+<p>
+  🇧🇷 Aprendendo mais sobre <strong>Java</strong><br>
+  🇺🇸 Learning more about <strong>Java</strong>
+</p>
+  
+## Skills
+  
+### Languages & Technologies
+  
+<div>
+  <img src="https://skillicons.dev/icons?i=c,cs,python,java,js,html,css,mysql&theme=dark" />
+</div>
+
+### Tools & IDEs
+  
+<div>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,idea,unity,trello&theme=dark" />
+</div>
+
+## My Socials
+  
+<p>
   <a href="https://www.instagram.com/eduuardo1st" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="48"/>
   </a>
@@ -53,8 +59,8 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/eduuardo1st/eduuardo1st/output/github-contribution-grid-snake-dark.svg" alt="snake gif" />
-</p>
+<img src="https://raw.githubusercontent.com/eduuardo1st/eduuardo1st/output/github-contribution-grid-snake-dark.svg" alt="snake gif" />
+
+</div>
 
 ---
