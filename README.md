@@ -6,7 +6,7 @@
 </p>
 
 <div align="center">
-<h1>👾 About me</h1>
+<h1>About me</h1>
 
   <!-- Português -->
   <p>🇧🇷 Sempre explorando coisas novas no mundo dev</p>
