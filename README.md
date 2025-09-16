@@ -5,8 +5,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=2000&color=8A2BE2&center=true&vCenter=true&width=1000&height=70&lines=Welcome+to+my+GitHub!+👋;Constantly+evolving+developer+💻;Let's+code!+🚀" alt="Typing SVG" />
 </p>
 
-## 👾 About me
 <div align="center">
+<h1>👾 About me</h1>
 
   <!-- Português -->
   <p>🇧🇷 Sempre explorando coisas novas no mundo dev</p>
