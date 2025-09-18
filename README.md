@@ -23,11 +23,9 @@
 </div>
  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eduuardo1st&show_icons=true&theme=radical&title_color=8A2BE2&icon_color=8A2BE2&hide_border=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eduuardo1st&theme=radical&hide_border=true&ring=8A2BE2&currStreakLabel=8A2BE2" height="150" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=eduuardo1st&theme=radical&title_color=8A2BE2&hide_border=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eduuardo1st&layout=compact&langs_count=6&theme=radical&title_color=8A2BE2&hide_border=true" height="150" />
 </p>
-
 
 <div align="center">
   
