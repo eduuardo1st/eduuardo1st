@@ -33,7 +33,7 @@
   <a href="https://www.instagram.com/eduuardo1st" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="48"/>
   </a>
-  <a href="https://www.linkedin.com/in/eduardo-gon%C3%A7alves-de-mesquita-3ab8bb325" target="_blank">
+  <a href="https://www.linkedin.com/in/eduardogoncalvesmesquita/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="48"/>
   </a>
   <a href="mailto:eduardouc388@gmail.com" target="_blank">
