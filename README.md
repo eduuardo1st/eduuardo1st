@@ -6,20 +6,7 @@
 </p>
 
 <div align="center">
-<h1>About me</h1>
-
-  <!-- Português -->
-  <p>🇧🇷 Sempre explorando coisas novas no mundo dev</p>
-  <p>Engenharia de Software - <strong>UCB</strong></p>
-  <p>Aprendendo mais sobre <strong>Java</strong></p>
-
-  <br>
-
-  <!-- Inglês -->
-  <p>🇺🇸 Always exploring new things in the dev world</p>
-  <p>Software Engineering - <strong>UCB</strong></p>
-  <p>Learning more about <strong>Java</strong></p>
-
+  <p>Software Engineering - <strong>UCB</strong>
 </div>
  
 <p align="center">
