@@ -22,21 +22,6 @@
 
 ---
 
-### Contact
-<p align="center">
-  <a href="https://www.linkedin.com/in/eduardogoncalvesmesquita/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="40"/>
-  </a>
-  <a href="mailto:eduardouc388@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="40"/>
-  </a>
-  <a href="https://discordapp.com/users/897296310867230770" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord&theme=dark" width="40"/>
-  </a>
-</p>
-
----
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/eduuardo1st/eduuardo1st/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
