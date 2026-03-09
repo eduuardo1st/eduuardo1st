@@ -1,15 +1,15 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=2000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub;Software+Engineering+-+UCB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=2000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Eduardo+G.;Software+Engineer" alt="Typing SVG" />
 </p>
 
 ---
 
 ### Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cs,python,java,js,html,css,mysql&theme=dark" /><br>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,idea,unity,trello&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cs,python,java,js,html,css,mysql,postgres&theme=dark" /><br>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,eclipse,idea,unity,trello&theme=dark" />
 </p>
 
 ---
