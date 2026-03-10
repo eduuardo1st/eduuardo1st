@@ -9,7 +9,7 @@
 ### Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cs,python,java,js,html,css,mysql,postgres,mongodb&theme=dark" /><br>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,eclipse,idea,unity&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,eclipse,idea,unity,postman&theme=dark" />
 </p>
 
 ---
