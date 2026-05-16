@@ -1,7 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=001F3F&height=120&section=header"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=2000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Eduardo+G.;Software+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=2000&color=001F3F&center=true&vCenter=true&width=800&lines=Eduardo+G.;Software+Engineer" alt="Typing SVG" />
 </p>
 
 ---
@@ -18,4 +18,4 @@
   <img src="https://raw.githubusercontent.com/eduuardo1st/eduuardo1st/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=001F3F&height=120&section=footer"/>
