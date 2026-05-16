@@ -8,15 +8,8 @@
 
 ### Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cs,python,java,js,html,css,mysql,postgres,mongodb&theme=dark" /><br>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,eclipse,idea,unity,postman&theme=dark" />
-</p>
-
----
-
-### GitHub Stats
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=eduuardo1st&theme=radical&hide_border=true&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2" height="150" />
+  <img src="https://skillicons.dev/icons?i=c,cs,python,java,spring,js,html,css,nodejs,mongodb&theme=dark" /><br>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,eclipse,idea,unity,postman,mysql,postgres&theme=dark" />
 </p>
 
 ---
